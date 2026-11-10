@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working as a Full Stack Developer at **Grupo BIOS Informática**, developing and maintaining enterprise ERP systems.
+- 💼 Currently working as a Full Stack Developer , developing and maintaining enterprise ERP systems.
 - ☕ Professional experience with **Java 21**, JDBC, Jakarta EE, and REST APIs.
 - 🎨 Frontend development with **Angular, React, TypeScript, and JavaScript**.
 - 🏢 Experience with business rules and financial modules, including accounts payable, accounts receivable, and accounting processes.
